@@ -38,6 +38,12 @@
   email: vanja.kovic@f.bg.ac.rs
   photo: vanja.jpg
 
+  - id: Anđela
+  fullname: Anđela Šoškić
+  affiliation: University of Belgrade, Serbia
+  email: andjela.soskic@f.bg.ac.rs
+  photo: Anđela.jpg
+
 - id: mahnaz
   fullname: Mahnaz Arvaneh
   affiliation: University of Sheffield, United Kingdom
