@@ -10,7 +10,7 @@ The action is structured into several working groups, each focusing on specific 
   <p>This work package develops standardized reporting guidelines and templates to improve transparency, consistency, and reproducibility in EEG research across diverse experimental designs. It works closely with journals and the research community to pilot, refine, and promote widespread adoption of these standards.</p>
   <table style="width: 80%; text-align: left; vertical-align: top;">
     <td><h4>Leader:</h4>{% include person id="vanja" %}</td>
-    <td><h4>Vice-leader:</h4>{% include person id="tba" %}</td>
+    <td><h4>Co-leader:</h4>{% include person id="Anđela" %}</td>
   </table>
 </div>
 
