@@ -19,7 +19,8 @@ The action is structured into several working groups, each focusing on specific 
   <p>This work package curates FAIR-compliant EEG datasets and develops standardized analysis pipelines and harmonisation tools to make data comparable across laboratories, devices, and populations. Its goal is to reduce methodological variability and enable large-scale, collaborative, and reproducible EEG analyses.</p>
   <table style="width: 80%; text-align: left; vertical-align: top;">
     <td><h4>Leader:</h4>{% include person id="mahnaz" %}</td>
-    <td><h4>Vice-leader:</h4>{% include person id="tba" %}</td>
+    <td><h4>Co-leader:</h4>{% include person id="xun" %}</td>
+    <td><h4>Co-leader:</h4>{% include person id="claudio" %}</td>
   </table>
 </div>
 
