@@ -12,17 +12,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Navigation
-header_pages:
-  - index.md
-  - collaborators.md
-  - workgroups.md
-  - contact.md
-
 # Exclude from processing
 exclude:
   - Gemfile
   - Gemfile.lock
-  - README.md
+  - CNAME
   - STRUCTURE.md
   - LICENSE.md
+  - README.md
+  - '**/README.md'
