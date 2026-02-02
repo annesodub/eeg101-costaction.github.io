@@ -38,11 +38,29 @@
   email: vanja.kovic@f.bg.ac.rs
   photo: vanja.jpg
 
+- id: anđela
+  fullname: Anđela Šoškić
+  affiliation: University of Belgrade, Serbia
+  email: andjela.soskic@f.bg.ac.rs
+  photo: anđela.jpg
+
 - id: mahnaz
   fullname: Mahnaz Arvaneh
   affiliation: University of Sheffield, United Kingdom
   email: m.arvaneh@sheffield.ac.uk
   photo: mahnaz.jpg
+
+- id: xun
+  fullname: Xun He
+  affiliation: Bournemouth University, United Kingdom
+  email: xhe@bournemouth.ac.uk
+  photo: xun.jpg
+
+- id: claudio
+  fullname: Claudio Babiloni
+  affiliation: Sapienza University of Rome, Italy
+  email: claudio.babiloni@uniroma1.it
+  photo: claudio.jpg
 
 - id: maximilien
   fullname: Maximilien Chaumon

@@ -17,9 +17,24 @@ The website content is licensed under [CC BY-SA 4.0](https://creativecommons.org
 Please note that most website content is formatted in plain [Markdown](https://www.markdownguide.org/getting-started/) format and you don't need to know much about HTML. There are a few things for which we use some HTML, such as for the formatting of cards, or the images.
 
 - **Edit content**: Modify the Markdown files (`index.md`, `coordination.md`, `working-groups.md`, etc.)
+- **Navigation**: Update `_data/navigation.yaml`, please consider the best order of menu items
+- **People**: Edit `_data/people.yaml` and add a _square_ photo to assets/images/people
 - **Styling**: Edit `assets/css/style.css`
-- **Navigation**: Update `_data/navigation.yaml`
-- **People data**: Edit `_data/people.yaml`
+
+### Adding Pages
+
+Create `.md` file with front matter, followed by Markdown formatted content:
+
+   ```yaml
+   ---
+   layout: default
+   title: Page Title
+   ---
+   ```
+
+The page title is automatically added, so you should _not_ add a `# Page Title` heading at the top. Within the page you should only use sub-headings at level 2 with `##`, level 3 with `###`,  etcetera.
+
+If you want the page to appear in the main menu, you should add a navigation link in `_data/navigation.yaml`.
 
 ### Running it locally
 
@@ -47,6 +62,8 @@ The site auto-deploys via GitHub Pages when pushing to the main branch of this r
 ├── index.md
 ├── coordination.md
 ├── working-groups.md
+├── grants.md
+├── join.md
 ├── news.md
 ├── contact.md
 ├── _data/
@@ -63,16 +80,3 @@ The site auto-deploys via GitHub Pages when pushing to the main branch of this r
 │   └── images/
 └── _config.yml
 ```
-
-### Adding Pages
-
-1. Create `.md` file with front matter, followed by Markdown formatted content:
-
-   ```yaml
-   ---
-   layout: default
-   title: Page Title
-   ---
-   ```
-
-2. Add navigation link in `_data/navigation.yaml`
