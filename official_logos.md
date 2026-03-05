@@ -2,7 +2,7 @@
 title: Style Guide
 ---
 
-This page presents the official EEG101 logos including the color scheme and fonts. Download a [zip file](https://github.com/eeg101-costaction/eeg101-costaction.github.io/raw/refs/heads/main/EEG101-logos.zip) for all logo variations in different file formats.
+This page presents the official EEG101 logos including the color scheme and fonts. Download a [zip file](/assets/EEG101-logos.zip) for all logo variations in different file formats.
 
 There are also logos and guidelines for the [COST Action brand identify](https://www.cost.eu/about/visual-identity/) and for the [EU emblem](https://ec.europa.eu/regional_policy/information-sources/logo-download-center_en).
 
