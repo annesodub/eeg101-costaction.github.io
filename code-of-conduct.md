@@ -1,9 +1,8 @@
 --- 
 title: EEG101 Code of Conduct
 ---
-**Version of 2026-02-03**
 
-📄 [Download the EEG101 Code of Conduct (PDF)](/assets/docs/EEG101 Code of Conduct.pdf)
+📄 [Download](/assets/docs/EEG101 Code of Conduct.pdf) the EEG101 Code of Conduct version of 2026-02-03.
 
 ---
 
