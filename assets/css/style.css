@@ -200,7 +200,9 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
 /* Collapsible Menus */
+
 details {
   margin-bottom: 1em;
   border: 1px solid #ddd;
