@@ -8,15 +8,17 @@ We are pleased to announce the first funding round of the EEG101 COST Action. De
 
 **<u>The deadline for EEG101 2026 Round 1 for all available schemes is 3rd April 17:00 CET</u>**. Any applications submitted after this deadline may be put on a waiting list and considered in a future funding round, but this cannot be guaranteed. Funding decisions for Round 1 are expected to be confirmed by 30 April.
 
-<details markdown="1">
-  <summary>General eligibility</summary>
+**General eligibility**
 
-  Applicants must be EEG101 Action participants with a primary affiliation to a legal entity located in a COST Full or Cooperating Member country or a COST Near Neighbour Country ([COST International Collaboration](https://www.cost.eu/about/strategy/international-collaboration/)).
+Applicants must be EEG101 Action participants with a primary affiliation to a legal entity located in a COST Full or Cooperating Member country or a COST Near Neighbour Country ([COST International Collaboration](https://www.cost.eu/about/strategy/international-collaboration/)).
 
-  Any exclusions to this will be listed in the text for each call. You can also check your eligibility with [this web tool](https://www.cost.eu/am-i-eligible/).
+Any exclusions to this will be listed in the text for each call. You can also check your eligibility with [this web tool](https://www.cost.eu/am-i-eligible/).
 
-  Applicants must submit their proposal through [e-COST](https://e-services.cost.eu/user/login), following the procedures described in the [COST Annotated Rules and Grant Awarding User Guide](https://www.cost.eu/funding/documents-guidelines/) available on the COST Association website. Email submissions of proposals will not be considered. Please carefully review the information for each of the available funding calls below.
-</details>
+Applicants must submit their proposal through [e-COST](https://e-services.cost.eu/user/login), following the procedures described in the [COST Annotated Rules and Grant Awarding User Guide](https://www.cost.eu/funding/documents-guidelines/) available on the COST Association website. Email submissions of proposals will not be considered. Please carefully review the information for each of the available funding calls below.
+
+👉 **Register via e-COST: [Apply to COST Action CA24148 (EEG101)](https://e-services.cost.eu/action/CA24148/working-groups/apply)**
+
+---
 
 <details markdown="1">
   <summary>Acknowledgement requirements</summary>
