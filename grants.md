@@ -2,41 +2,31 @@
 title: Grants
 ---
 
-## EEG101 Funding Calls Round 1
+## EEG101 Funding Calls Round 2
 
-We are pleased to announce the first funding round of the EEG101 COST Action. Dedicated funding will support collaboration, training, and dissemination activities that advance the Action's mission to promote open and rigorous EEG science.
+We are pleased to announce the second funding round of the EEG101 COST Action. Dedicated funding will support collaboration, training, and dissemination activities that advance the Action's mission to promote open and rigorous EEG science. There will be a rolling 8-week review period (i.e. your submission will be reviewed within 8 weeks of submission). Please take this into account when planning your application.
 
-**<u>The deadline for EEG101 2026 Round 1 for all available schemes is 3rd April 17:00 CET</u>**. Any applications submitted after this deadline may be put on a waiting list and considered in a future funding round, but this cannot be guaranteed. Funding decisions for Round 1 are expected to be confirmed by 30 April.
+**<u>The deadline for EEG101 2026 Round 2 for all available schemes is until funds are exhausted</u>**. 
 
-**General eligibility**
+### **Important information**
 
-Applicants must be EEG101 Action participants with a primary affiliation to a legal entity located in a COST Full or Cooperating Member country or a COST Near Neighbour Country ([COST International Collaboration](https://www.cost.eu/about/strategy/international-collaboration/)).
+🔹 Please note that the academic lead at the host institution for all STSM placements must be a member of EEG101. Applicants should ensure that prospective hosts have joined the Action before submitting their application. Membership is open to [eligible](https://www.cost.eu/am-i-eligible/) researchers internationally, including those based outside COST countries.
 
-Any exclusions to this will be listed in the text for each call. You can also check your eligibility with [this web tool](https://www.cost.eu/am-i-eligible/).
+🔹 For **Virtual Mobility** applications involving collaboration with a third party, the named academic or professional lead at the collaborating organisation must also be a **member of EEG101**. Applicants should ensure that any third-party collaborator has joined the Action *before* submitting their application.
 
-Applicants must submit their proposal through [e-COST](https://e-services.cost.eu/user/login), following the procedures described in the [COST Annotated Rules and Grant Awarding User Guide](https://www.cost.eu/funding/documents-guidelines/) available on the COST Association website. Email submissions of proposals will not be considered. Please carefully review the information for each of the available funding calls below.
+🔹 Applications must also include a clear **justification of the requested expenses**, including estimated travel, accommodation and subsistence costs where relevant, so that the Grant Reviewers can assess whether the proposed budget is reasonable and eligible.
 
-👉 **Register via e-COST: [Apply to COST Action CA24148 (EEG101)](https://e-services.cost.eu/action/CA24148/working-groups/apply)**
+🔹 All visible output produced with support from these funding schemes must acknowledge the support of the COST Action and whenever possible use the COST and [EEG101 logos](https://www.eeg101.eu/official_logos) (e.g. on presentation slides and posters). Manuscripts must include the following acknowledgement statement:
+
+&nbsp;&nbsp;&nbsp; <u>Example acknowledgement statement:</u>
+
+&nbsp;&nbsp;&nbsp;    *This publication is based on work supported by the European COST Action CA24148: 'EEG101 - Fundamentals of Open & Rigorous EEG Science'*.
 
 ---
 
-<details markdown="1">
-  <summary>Acknowledgement requirements</summary>
+👉 **Register via e-COST: [Apply to COST Action CA24148 (EEG101)](https://e-services.cost.eu/action/CA24148/working-groups/apply)**
 
-  Each externally visible output produced with support from these funding schemes must acknowledge the support of the COST Action and whenever possible use the COST and EEG101 logos (e.g. on presentation slides and posters). Manuscripts must include the following acknowledgement statement:
-
-  <u>Example acknowledgement statement:</u>
-  
-  *This publication is based on work supported by the European COST Action CA24148: 'EEG101 - Fundamentals of Open & Rigorous EEG Science'*.
-</details>
-
-<details markdown="1">
-  <summary>Need guidance before applying?</summary>
-
-  Submit an [Expression of Interest (EoI)](https://leedspsychology.eu.qualtrics.com/jfe/form/SV_bBGBcL2HBm0Oko6) to receive feedback that can help align your proposal with EEG101 objectives. This step is NOT mandatory, but is available if you are unsure about the fit and feel that you could benefit from advice.
-
-  Note that this feedback will not in any way impact on the final outcome from a full proposal and to avoid conflicts of interest it is reviewed by a different team to the Grants Awarding Committee. Please allow 7 days for a response to your submission and factor this timeframe in for your application.
-</details>
+Applicants must submit their proposal through [e-COST](https://e-services.cost.eu/user/login), following the procedures described in the [COST Annotated Rules and Grant Awarding User Guide](https://www.cost.eu/funding/documents-guidelines/) available on the COST Association website. Email submissions of proposals will not be considered. Please carefully review the information for each of the available funding calls below.
 
 ---
 
