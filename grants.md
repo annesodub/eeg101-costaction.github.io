@@ -30,6 +30,21 @@ Applicants must submit their proposal through [e-COST](https://e-services.cost.e
 
 ---
 
+### Grant Application Templates
+
+To support your application process, COST provides standardized templates for each funding scheme. You MUST use the appropriate template for your application to ensure compliance with COST rules.
+
+**Download the templates for your funding scheme:**
+
+- [Short-Term Scientific Missions (STSM) Application Template](/assets/docs/cost-grant-applications-templates/STSM-application-template.docx)
+- [STSM Host Approval Template](/assets/docs/cost-grant-applications-templates/STSM-Host-approval-template.docx)
+- [Young Researchers International Collaboration Grant (YRICG) Application Template](/assets/docs/cost-grant-applications-templates/YRICG-application-template.docx)
+- [Inclusiveness Target Countries (ITC) Conference Grants Template](/assets/docs/cost-grant-applications-templates/ITCG-application-template.docx)
+- [Virtual Mobility (VM) Grant Application Template](/assets/docs/cost-grant-applications-templates/VM-grant-application-template.docx)
+- [Virtual Networking Support (VNS) Application Template](/assets/docs/cost-grant-applications-templates/VNS-application-template.docx)
+
+---
+
 ### Short Term Scientific Missions
 
 *Encouraging institutional exchange visits*
@@ -195,20 +210,3 @@ Up to **1500 EUR** per VM Grant; should reflect the complexity of work that will
   3. Brief summarisation of the budget applied – although no justification of expenses will be required, the budget needs to reflect the complexity of the work that will be carried out.
   4. Signed invitation for virtual mobility by host researcher/institution. A template is available [here](https://eu-li-phe.eu/wp-content/uploads/2024/07/VM-host-invitation.docx).
 </details>
-
----
-
-## Useful resources
-
-### Grant Application Templates
-
-To support your application process, COST provides standardized templates for each funding scheme. You MUST use the appropriate template for your application to ensure compliance with COST rules.
-
-**Download the templates for your funding scheme:**
-
-- [Short-Term Scientific Missions (STSM) Application Template](/assets/docs/cost-grant-applications-templates/STSM-application-template.docx)
-- [STSM Host Approval Template](/assets/docs/cost-grant-applications-templates/STSM-Host-approval-template.docx)
-- [Young Researchers International Collaboration Grant (YRICG) Application Template](/assets/docs/cost-grant-applications-templates/YRICG-application-template.docx)
-- [Inclusiveness Target Countries (ITC) Conference Grants Template](/assets/docs/cost-grant-applications-templates/ITCG-application-template.docx)
-- [Virtual Mobility (VM) Grant Application Template](/assets/docs/cost-grant-applications-templates/VM-grant-application-template.docx)
-- [Virtual Networking Support (VNS) Application Template](/assets/docs/cost-grant-applications-templates/VNS-application-template.docx)
