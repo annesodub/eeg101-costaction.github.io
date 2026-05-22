@@ -6,7 +6,7 @@ title: Grants
 
 We are pleased to announce the second funding round of the EEG101 COST Action. Dedicated funding will support collaboration, training, and dissemination activities that advance the Action's mission to promote open and rigorous EEG science. There will be a rolling 8-week review period (i.e. your submission will be reviewed within 8 weeks of submission). Please take this into account when planning your application.
 
-**<u>The deadline for EEG101 2026 Round 2 for all available schemes is until funds are exhausted</u>**. 
+**<u>The deadline for EEG101 2026 Round 2 for all available schemes is open until funds are exhausted</u>**. 
 
 ### **Important information**
 
