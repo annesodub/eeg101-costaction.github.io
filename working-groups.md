@@ -10,6 +10,7 @@ The action is structured into several working groups, each focusing on specific 
   <table style="width: 80%; text-align: left; vertical-align: top;">
     <td><h4>Leader:</h4>{% include person id="vanja" %}</td>
     <td><h4>Co-leader:</h4>{% include person id="anđela" %}</td>
+    <td><h4>Co-leader:</h4>{% include person id="dejan" %}</td>
   </table>
 </div>
 
